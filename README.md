@@ -7,13 +7,13 @@ Jupiter Note book
 
 # Steps to  run this project 
 1) Open the project folder using any text editor tools, VS code is recommended.
-2) Then open the terminal of project path and use the command   pip install -r requirements.txt
-Or else You can install the required packages from the requirements.txt file one by one manually.
-3) After the Installation of requiremnts.txt .Run the ins.ipynb file while the Machine Learning file.
-4) Then open the app.py and run it.
-5) Then the server starts runing in the terminal.
-6) Click on the url shown like this http://127.0.0.1:5000/
-7) Then the InsightSure will be OPened in the web browser.
+2) Then open the terminal of project path and use the command  <em> pip install -r requirements.txt </em>
+3) Else You can install the required packages from the requirements.txt file one by one manually.
+4) After the Installation of requiremnts.txt .Run the ins.ipynb file while the Machine Learning file.
+5) Then open the app.py and run it.
+6) Then the server starts runing in the terminal.
+7) Click on the url shown like this http://127.0.0.1:5000/
+8) Then the InsightSure will be OPened in the web browser.
 
 # User Interface 
 <div>
