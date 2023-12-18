@@ -17,11 +17,15 @@ Or else You can install the required packages from the requirements.txt file one
 
 # User Interface 
 <div>
-<img width="882" alt="image" src="https://github.com/Neerajareddy27/Insightsure-Health-Insurance-Price-Predicton/assets/105142891/0879a0e5-781f-402f-a68f-5ba1b6695624">
+<img width="882" alt="image" src="https://github.com/Neerajareddy27/Insightsure-Health-Insurance-Price-Predicton/assets/105142891/0879a0e5-781f-402f-a68f-5ba1b6695624"><br><br>
 Home Page
-
+<br>
+<br>
+<br>
 </div>
 <div>
-<img width="878" alt="image" src="https://github.com/Neerajareddy27/Insightsure-Health-Insurance-Price-Predicton/assets/105142891/833c8165-afbd-4e4e-8636-5c48a992e09a">
+<img width="878" alt="image" src="https://github.com/Neerajareddy27/Insightsure-Health-Insurance-Price-Predicton/assets/105142891/833c8165-afbd-4e4e-8636-5c48a992e09a"><br><br>
 Insurance Prediction Page
+<br>
+<br>
 </div>
