@@ -16,10 +16,12 @@ Or else You can install the required packages from the requirements.txt file one
 7) Then the InsightSure will be OPened in the web browser.
 
 # User Interface 
+<div>
 <img width="882" alt="image" src="https://github.com/Neerajareddy27/Insightsure-Health-Insurance-Price-Predicton/assets/105142891/0879a0e5-781f-402f-a68f-5ba1b6695624">
-
 Home Page
+
+</div>
+<div>
 <img width="878" alt="image" src="https://github.com/Neerajareddy27/Insightsure-Health-Insurance-Price-Predicton/assets/105142891/833c8165-afbd-4e4e-8636-5c48a992e09a">
-
 Insurance Prediction Page
-
+</div>
